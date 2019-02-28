@@ -1,0 +1,113 @@
+#main-image
+{
+    height: 1110px;
+    background: url('photo/jshel.jpg') center;
+   
+}
+
+
+.heading h1
+{
+    
+    font-family: 'Playball', cursive;
+    font-family: 'Patua One', cursive; 
+    font-family: 'Great Vibes', cursive;
+    font-size: 90px;
+    margin-top: 0px;
+    padding: 0 150px;
+    color:white;
+    
+    
+}
+
+.heading h2
+{
+    color:white;
+    margin-top: -70px;
+    padding: 0 150px;
+
+}
+.darkred
+{
+    color:#000;
+    margin-top: -70px;
+}
+
+.text
+{
+    width: 100%;
+    overflow: hidden;
+    font-size: 20px;
+    padding: 0 150px;
+    margin: 20px 0;
+    
+}
+.text p
+{
+    color: white;
+}
+
+.oublie
+{
+    text-decoration: none;
+    color: white;
+}
+
+
+
+   
+.text input
+{
+    
+    
+    background: none;
+    color: white;
+    font-size: 18px;
+}
+
+.text i
+{
+    width: 60px;
+    float: left;
+    text-align: center;
+    color:white;
+}
+
+.text-2 h2
+{
+    padding: 0 150px;
+    color: white;
+}
+.text-2 input
+{
+    padding: 0 150px; 
+    border:none;
+    outline: none;
+    background: none;
+    color:black;
+    font-size: 18px;
+    
+    float: left;
+    margin: 0 0px;
+}
+
+#footer
+{
+    height: 50px;
+}
+
+.text-3 nav ul li
+{
+    list-style: none;
+    display: inline-block;
+    text-transform: uppercase;
+    
+}
+
+.text-3 nav ul li a
+{
+    text-decoration: none;
+    list-style: none;
+    margin-right: 100px
+}
+

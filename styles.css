@@ -1,0 +1,286 @@
+/* GENERALE*/
+.wrapper
+{
+    margin: 0;
+    padding: 0;
+    
+}
+
+
+
+.heading h1
+{
+    font-family: 'Playball', cursive;
+    font-family: 'Patua One', cursive; 
+    font-family: 'Great Vibes', cursive;
+    font-size: 90px;
+    margin-top: 40px;
+    padding: 0px 25px;
+    
+    
+}
+
+.darkred
+{
+    color: #8B0000;
+}
+
+.search-box
+{
+    float: right;
+    margin-top: -170px;
+    padding: 0 100px;
+    border-radius: 40px; 
+}
+
+.search-btn
+{
+    color: #000;
+    float:right; 
+    
+}
+.nav-mobile 
+{
+    float: right;  
+    margin-top: -185px; 
+    
+}
+.nav-mobile nav ul li
+{
+    display: inline-block;
+    
+    
+}
+.nav-mobile nav ul li a
+{
+    margin-right: 20px;
+    display: inline-block;
+    
+}
+.user
+{
+    color: #000;
+    float:right; 
+}
+.shopping
+{
+    color: #000;
+    float:right;
+}
+
+.header nav
+{
+    float:right;
+    margin-top: -140px; 
+    padding: 0 770px;
+    color:#000;
+    
+    
+}
+.header nav li
+{
+    display: inline-block;
+    font-family: 'Playball', cursive;
+    font-family: 'Patua One', cursive;
+    font-family: 'Great Vibes', cursive;
+    font-family: 'Merriweather', serif;
+    font-weight: bold;
+    color: #000;
+    
+}
+.header nav li a
+{
+    text-decoration: none;
+    margin-right: 20px;
+}
+
+.progress nav
+{
+    float: right;
+    text-transform: uppercase;
+    margin-top: -100px;
+    padding: 0 600px;
+    
+}
+.progress nav li
+{
+    display: inline-block;
+    font-family: 'Playball', cursive;
+    font-family: 'Patua One', cursive;
+    font-family: 'Great Vibes', cursive;
+    font-family: 'Merriweather', serif;
+    color:#000;
+    font-weight: bold;
+}
+.progress nav li a
+{
+    text-decoration: none;
+    margin-right: 15px;
+}
+
+/*MAIN-IMAGE*/
+#main-image
+{
+    height: 960px;
+    background: url('photo/shel.jpg') center;
+    animation: slide 20s infinite;
+}
+
+@keyframes slide
+{
+    25%
+    {
+        background: url('photo/jshel.jpg');
+    }
+    50%
+    {
+        background: url('photo/im.jpg');
+    }
+    75%
+    {
+        background: url('photo/ima2.jpg');
+    }
+    100%
+    {
+        background: url('photo/ima5.jpg');
+    }
+}
+
+#main-image h2
+{
+    text-align: center;
+    text-transform: uppercase;
+    padding: 400px 0 40px 0;
+    color: aliceblue;
+    font-family: 'Playball', cursive;
+    font-family: 'Patua One', cursive;
+    font-family: 'Great Vibes', cursive;
+    font-family: 'Merriweather', serif;
+    font-size: 50px;       
+}
+.button
+{
+    text-align: center;
+    font-size: 20px;
+    padding: 0 890px;
+    display: block;
+    width: 100px;
+    height: 50;
+    background: white;
+    color: black;
+    text-decoration: none;
+}
+#information
+{
+    height: 300px;
+}
+
+#information h2
+{
+    padding: 5px 20px;
+    height: 5px;
+}
+
+#information p
+{
+    padding: 0px 25px;
+    margin-top: -5px;
+    display: inline-block;
+}
+.button-1
+{
+    padding: 0px 25px;
+    display: block;
+    color: #ffff;
+    height: 40px;
+    background: #000;
+    width: 180px;
+    text-decoration: none;
+}
+
+.projet-2
+{
+    float: right;
+    margin-top: -150px;
+    padding: 0px 825px;
+}
+.projet-2 nav ul li 
+{
+    list-style: none;
+    margin-top: 5px;    
+}
+.projet-2 nav li a
+{
+    color: black;
+    text-decoration: none;
+}
+
+.projet-3
+{
+    float: right;
+    margin-top: -175px;
+    padding: -60px 600px;
+   
+}
+
+.projet-3 nav ul li 
+{
+    list-style: none;
+    margin-top: 5px;    
+}
+.projet-3 nav li a
+{
+    color: black;
+    text-decoration: none;
+}
+/* FOOTER*/
+
+#footer
+{
+    height: 200px;
+    background-color:#837D7B;
+}
+#footer h1
+{
+    font-family: 'Playball', cursive;
+    font-family: 'Patua One', cursive; 
+    font-family: 'Great Vibes', cursive;
+    color: white;
+    float:right;
+    padding: 0px 920px;
+    font-size: 40px;
+}
+.projet-5
+{
+    float: right;
+    margin-top: 40px;
+}
+.projet-6
+{
+    float: right;
+}
+
+.projet-6 nav ul li
+{
+    list-style: none;
+    display: inline-block;
+    padding: -15px 10px;
+}
+
+.projet-7
+{
+    float: left;
+}
+.projet-7 nav ul li
+{
+    list-style: none;
+    display: inline-block;
+    margin-top: 10px;
+}
+
+
+
+
+
+
+
